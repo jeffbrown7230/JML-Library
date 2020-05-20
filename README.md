@@ -1,4 +1,4 @@
-Jeffrey Neural Network Library
+Jeffrey Machine Learning Library
 
 The mission of this library is to create a machine learning library that is applicable to all machines running python.
 To use this library you must be running Python 3 and have imported the numpy, collections, and matplotlib libraries.
